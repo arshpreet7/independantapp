@@ -1,0 +1,43 @@
+.b 
+{
+    color: rgb(0, 0, 0);
+  
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 1px solid #3498db;
+    background-color: transparent;   
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+p
+{
+    font-size: 30px;
+    text-align: justify;
+
+}
+body
+{
+    background: linear-gradient(217deg, rgba(234, 0, 255, 0.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0, 255, 179, 0.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(255, 170, 0, 0.8), rgba(0,0,255,0) 70.71%);
+}
+h1
+{
+    font-size : 50px;
+    text-align : center;
+}
+#HH
+{
+    margin-left: 600px;
+}
+#NN
+{
+    margin-left: 600px;
+}
+#EE
+{
+    margin-left: 600;
+    width: 500;
+
+}
